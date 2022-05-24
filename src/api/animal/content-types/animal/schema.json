@@ -22,6 +22,9 @@
     },
     "birthdate": {
       "type": "date"
+    },
+    "computed": {
+      "type": "string"
     }
   }
 }
